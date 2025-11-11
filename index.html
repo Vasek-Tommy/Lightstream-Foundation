@@ -1,0 +1,31 @@
+```html
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Lightstream – No Chain. Just Stream.</title>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Roboto+Mono&display=swap" rel="stylesheet">
+  <style>
+    :root { --glow: #00d4ff; --bg: #000; --text: #0f0; }
+    * { margin:0; padding:0; box-sizing:border-box; }
+    body { background: var(--bg); color: var(--text); font-family: 'Roboto Mono', monospace; text-align: center; padding: 40px; }
+    .logo { width: 180px; filter: drop-shadow(0 0 20px var(--glow)); animation: pulse 2s infinite; }
+    h1 { font-family: 'Orbitron', sans-serif; font-size: 3.5rem; margin: 20px 0; text-shadow: 0 0 15px var(--glow); }
+    p { font-size: 1.2rem; margin: 15px 0; }
+    .btn { display: inline-block; margin: 15px; padding: 14px 28px; background: transparent; border: 2px solid var(--glow); color: var(--glow); text-decoration: none; border-radius: 8px; transition: 0.3s; }
+    .btn:hover { background: var(--glow); color: #000; box-shadow: 0 0 25px var(--glow); }
+    @keyframes pulse { 0%,100% { transform: scale(1); } 50% { transform: scale(1.05); } }
+    footer { margin-top: 60px; font-size: 0.9rem; color: #666; }
+  </style>
+</head>
+<body>
+  <img src="lightstream_logo.png" alt="Lightstream Logo" class="logo">
+  <h1>LIGHTSTREAM</h1>
+  <p>Quantum-safe Offline P2P<br>1M TPS • 4 Keys • No Chain</p>
+  <a href="https://github.com/lightstream-coin/lightstream-coin" class="btn">GitHub</a>
+  <a href="https://gumroad.com/l/lightstreampro" class="btn">Pro ($49)</a>
+  <a href="mailto:lightstreamfoundation@proton.me" class="btn">Enterprise (250k CHF)</a>
+  <footer>© 2025 Lightstream Foundation • Zürich, CH</footer>
+</body>
+  </html>
