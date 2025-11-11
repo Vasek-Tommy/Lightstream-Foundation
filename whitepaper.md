@@ -1,7 +1,7 @@
 # Lightstream Coin v1.1 – Prior Art & Whitepaper  
 **Inventor:** Lightstream Foundation  
 **Date:** November 11, 2025  
-**License:** AGPL-3.0 + Commercial Enterprise 250,000 CHF/year  
+**License:** AGPL-3.0 + Commercial Enterprise starting at 250,000 CHF/year  
 
 ---
 
