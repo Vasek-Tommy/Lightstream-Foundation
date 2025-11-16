@@ -1,7 +1,23 @@
-# Lightstream Coin v1.1 – The Stream Replaces the Chain
+# Lightstream – No Chain. Just Stream.
 
-**No Chain. Just Stream.**  
-Quantum-safe. Offline P2P. 1M TPS. 4 Keys.
+**Open Source Core** (AGPL-3.0) – GitHub Stars = 100 LST Airdrop
 
-```bash
-python stream.py
+## Buy Lightstream Pro
+**$49 / Jahr – 10 Enterprise Keys**
+
+[Buy Now](https://lightstream2025.gumroad.com/l/lwhls)
+
+- Offline P2P (QR/NFC)
+- 1M TPS in RAM
+- Quantum-safe Fallback
+- WASM Smart Contracts
+- LST Token Transfer
+
+## Open Source
+[GitHub](https://github.com/Vasek-Tommy/Lightstream-Foundation)
+
+## Full Node (Cloud)
+http://159.223.201.152:5000
+
+## Contact
+lightstreamfoundation@proton.me
