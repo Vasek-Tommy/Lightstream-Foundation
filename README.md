@@ -1,23 +1,21 @@
-# Lightstream – No Chain. Just Stream.
+# Lightstream Foundation – Open Source Core
+**No Chain. Just Stream.**  
+Offline P2P • 1M TPS • Quantum-ready • AGPL-3.0
 
-**Open Source Core** (AGPL-3.0) – GitHub Stars = 100 LST Airdrop
+[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)  
+[![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)  
+[![1M TPS](https://img.shields.io/badge/TPS-1M-green)](#)
 
-## Buy Lightstream Pro
-**$49 / Jahr – 10 Enterprise Keys**
+> **Prior Art:** 13.11.2025 14:21 CET – GitHub Commit
 
-[Buy Now](https://lightstream2025.gumroad.com/l/lwhls)
+## Features
+- **Stream statt Blockchain**
+- **Key = Datei** (JSON export)
+- **Full Node Sync** (async P2P)
+- **LST Airdrop** (100 LST pro GitHub Star)
 
-- Offline P2P (QR/NFC)
-- 1M TPS in RAM
-- Quantum-safe Fallback
-- WASM Smart Contracts
-- LST Token Transfer
+## Quick Start
 
-## Open Source
-[GitHub](https://github.com/Vasek-Tommy/Lightstream-Foundation)
-
-## Full Node (Cloud)
-http://159.223.201.152:5000
-
-## Contact
-lightstreamfoundation@proton.me
+```bash
+cd core
+python -m lightstream_sdk_core

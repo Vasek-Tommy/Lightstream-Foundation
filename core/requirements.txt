@@ -1,0 +1,2 @@
+# Lightstream SDK Core – No external dependencies
+# Pure Python 3.8+
