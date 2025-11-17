@@ -1,0 +1,5 @@
+sdk_pro/
+sdk_unlimited/
+*.lsk
+sdk_closed.py
+validate_key.py
