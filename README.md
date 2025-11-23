@@ -22,12 +22,12 @@
 
 ### Live Products
 
-| Produkt                     | Preis    | Inhalt                                    | Link |
-|----------------------------|----------|-------------------------------------------|------|
-| **Open Sale**              | $1 000   | 1 000 000 LST                             | [Buy](https://lightstream2025.gumroad.com/l/1million-lst) |
-| **Launch Special**         | $5       | 5 000 LST                                 | [Buy](https://lightstream2025.gumroad.com/l/5000-lst) |
-| **Pro SDK**                | $49      | 10 Enterprise Keys · Offline P2P · WASM Contracts | [Buy](https://lightstream2025.gumroad.com/l/pro-sdk) |
-| **Ultimate / Enterprise** | auf Anfrage | Custom Keys · Private Node · Support      | [Contact](mailto:lightstreamfoundation@proton.me) |
+| Produkt                     | Preis       | Inhalt                                    | Link |
+|-----------------------------|-------------|-------------------------------------------|------|
+| **Open Sale**               | $1 000      | 1 000 000 LST                             | [Buy](https://lightstream2025.gumroad.com/l/1million-lst) |
+| **Launch Special**          | $5          | 5 000 LST                                 | [Buy](https://lightstream2025.gumroad.com/l/5000-lst) |
+| **Pro SDK**                 | $49         | 10 Enterprise Keys · Offline P2P · WASM Contracts | [Buy](https://lightstream2025.gumroad.com/l/pro-sdk) |
+| **Ultimate / Enterprise**  | auf Anfrage | Custom Keys · Private Node · Support      | [Contact](mailto:lightstreamfoundation@proton.me) |
 
 ---
 
@@ -37,8 +37,3 @@ git clone https://github.com/Vasek-Tommy/Lightstream-Foundation.git
 cd Lightstream-Foundation/core
 pip install -r requirements.txt
 python full_node.py
-
-### Founder
-VasekTommy – when the last LST is sold, founder becomes regular user.
-No more minting. Ever.
-Just Stream.
